@@ -30,6 +30,8 @@ A tela inicial exibe uma lista com scroll infinito dos personagens, utilizando c
 
 Logo abaixo da AppBar, há um campo de busca que permite pesquisar personagens pelo nome. A busca aceita nomes completos ou parciais e retorna os resultados de forma dinâmica. 
 
+
+
 ### 👤 Detalhes do Personagem 
 
 Ao selecionar um personagem, o usuário é redirecionado para uma nova tela com os seguintes detalhes: 
@@ -47,6 +49,9 @@ Origem do personagem
 Última localização conhecida 
 
 Primeira aparição na série 
+
+![Texto alternativo](rick_and_morty_kobe/lib/theme/details_page.jpg)
+
 
 ### 🔙 Navegação (Back) 
 
